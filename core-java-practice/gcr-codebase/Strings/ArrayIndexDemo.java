@@ -22,7 +22,7 @@ public class ArrayIndexDemo {
             names[i] = sc.next();
         }
 
-    \
+    
         handleException(names);
     }
 }
