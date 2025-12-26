@@ -8,10 +8,10 @@ class DiscountCalculate8 {
         double discount;
         double finalFee;
 
-        Scanner input = new Scanner(System.in);
+        Scanner r = new Scanner(System.in);
 
-        fee = input.nextDouble();
-        discountPercent = input.nextDouble();
+        fee = r.nextDouble();
+        discountPercent = r.nextDouble();
 
         discount = (fee * discountPercent) / 100;
         finalFee = fee - discount;
