@@ -54,10 +54,11 @@
 	    
 	          +-- core-java-practice/
              |          +-- scenario-based/
-**🗓️ 31-Dec-2025 (Wednesday):**[Check here]
+**🗓️ 31-Dec-2025 (Wednesday):**[Check here](https://github.com/Abhi-8279/BridgeLabz-Training/tree/oops-practice)
 
      BridgeLabz-Training/
           +-- core-java-practice/
           +-- oops-practice/
     Created new branch of oops-practice and performed Level 1 Level 2 of Class and Object questions in it. 
      Pushed the constructors based questions    
+
