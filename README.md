@@ -11,7 +11,7 @@
 	|   +-- leet-code-codebase/
 	|   +-- scenario-based/
 	+-- README.md
-   **🗓️ 18-Dec-2025 (Thursday):** [Check here][https://github.com/Abhi-8279/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+   **🗓️ 18-Dec-2025 (Thursday):** [Check here](https://github.com/Abhi-8279/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 		
     Continued with documentation.Solved and submitted basic practice problems on GitHub Using basic commands in Programming Elements in JAVA.
 	  core-java-practice/
@@ -61,4 +61,5 @@
           +-- oops-practice/
     Created new branch of oops-practice and performed Level 1 Level 2 of Class and Object questions in it. 
      Pushed the constructors based questions    
+
 
