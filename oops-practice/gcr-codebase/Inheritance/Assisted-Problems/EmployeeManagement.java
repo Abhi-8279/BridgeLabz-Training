@@ -1,4 +1,3 @@
-package Inheritance.EmployeeManagement;
 
 // Base Class
 class Employee {
