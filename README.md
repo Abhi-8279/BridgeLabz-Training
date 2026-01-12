@@ -83,5 +83,18 @@
 
 
 ## 📌 Week 4 More on OOPs Questions.
+**🗓️ 05-Jan-2026 (Monday):** [Check here](https://github.com/Abhi-8279/BridgeLabz-Training/tree/oops-practice/oops-practice)Continued With the more OOPs Questions and Submissions on 5th JAN.
+         
+**🗓️ 06-Jan-2026 (Tuesday):** [Check here](https://github.com/Abhi-8279/BridgeLabz-Training/tree/oops-practice/oops-practice)Performed 5 Random Questions of Leetcode to the Leetcode codebase Folder.
+         Encapulation Polymorphism Question Done in this date and folder of GCR-CODEBASE
+         
+**🗓️ 07-Jan-2026 (Wednesday):** [Check here](https://github.com/Abhi-8279/BridgeLabz-Training/tree/oops-practice/oops-practice)Some Scenario BAsed Question Performed and Learnt The Basics of DSA linkedList and Arrays Trees etc from PDF provide from the mentors.
 
-**🗓️ 05-Jan-2026 (Monday):** [Check here](https://github.com/Abhi-8279/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/Inheritance)
+**🗓️ 08-Jan-2026 (Thrusday):** Created the NEW branch for DSA questions And started with LinkedList on the First day and pushed 9 codes to github.Assigned the ScenarioBased Questions and completed the day itself.Attended The Meeting Organized by Capgemini.
+         
+**🗓️ 09-Jan-2026 (Friday):**Solved the Extras of Scenario Based today And Submitted the LinkedList Questions And oops Scenario Quetions Like HMS (Hospital MAnagement System), Vehicle Managemnet(VMS) etc.
+## 📌 Week 5 OOPs Practice real life Questions.  
+**🗓️ 12-Jan-2026 (Monday):** Performed More OOPs Scenario Based Questions Provided By BridgeLabz. Inventory Management System, Hotel Reservation System,Online Voting System,Digital Wallet System,TrafficManagerRoundabout Vehicle Flow.
+
+
+   
