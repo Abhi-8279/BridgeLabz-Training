@@ -36,7 +36,7 @@ class QuizProcessor {
     }
 }
 
-public class O nlineQuiz {
+public class OnlineQuiz {
     public static void main(String[] args) {
         try {
             String[] correctAnswers = {"A", "B", "C", "D", "A"};
