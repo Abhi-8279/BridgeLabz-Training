@@ -96,5 +96,5 @@
 ## 📌 Week 5 OOPs Practice real life Questions.  
 **🗓️ 12-Jan-2026 (Monday):** Performed More OOPs Scenario Based Questions Provided By BridgeLabz. Inventory Management System, Hotel Reservation System,Online Voting System,Digital Wallet System,TrafficManagerRoundabout Vehicle Flow.
 
-
+**🗓️ 13-Jan-2026 (Tuesday):**[Check Here](https://github.com/Abhi-8279/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)Solved more Scenario Questions Based question on oops concept provided by BridgeLaz.Namely questions we had done today are Online Banking System, SmartShelf â€“ Real-Time Book Arrangement (Insertion Sort), EventManager “ Ticket Price Optimizer (Quick Sort), Digital Wallet System.Also we have given introduction stack-queue-hashmap.
    
