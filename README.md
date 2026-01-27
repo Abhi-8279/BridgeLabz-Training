@@ -98,3 +98,18 @@
 
 **🗓️ 13-Jan-2026 (Tuesday):**[Check Here](https://github.com/Abhi-8279/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)Solved more Scenario Questions Based question on oops concept provided by BridgeLaz.Namely questions we had done today are Online Banking System, SmartShelf â€“ Real-Time Book Arrangement (Insertion Sort), EventManager “ Ticket Price Optimizer (Quick Sort), Digital Wallet System.Also we have given introduction stack-queue-hashmap.
    
+
+**🗓️ 14-Jan-2026 (Wednesday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/hashmap-queue-stack) Performed all questions on Stack,Queue and pushed to the dsa branch.HashMap and Map Questions solved in different folders [clickForMap](https://github.com/Abhi-8279/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/hashmap-queue-stack)
+
+**🗓️ 15-Jan-2026 (Thrusday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase) Getting start with DSA Sorting concepts and learning the new concepts and project structure of SpringBoot. All Sorting algorithm completed Bubble Sort,Insertion Sort,Merge Sort,Quick Sort,Selection Sort,Heap Sort,Counting Sort.
+    
+**🗓️ 16-Jan-2026 (Friday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase) Completed with Sortings Questions With Hand On Practice BookPriceMergeSort, CountingSortStudentAges, EmployeeIdInsertion.
+
+**🗓️ 17-Jan-2026 (Saturday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase) Searching Questions with Real Life Based Scenarios Completed today And Pushed to github. Reviews For OOPS COmpleted.
+
+## 📌 Week 6 Continued with OOPs Practice Questions and DSA .  
+**🗓️ 19-Jan-2026 (Monday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/addressBookProblem) AddressBook Problem UC1 And UC2 completed and pushed to gitHub
+
+**🗓️ 20-Jan-2026 (Tuesday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-Based) ScenarioBased Completed and pushed to gitHub with some common Questions of leetcode. CinemaTime – Movie Schedule Manager, Banking Account Hierarchy,  Employee Role Polymorphism etc.
+
+**🗓️ 21-Jan-2026 (Wednesday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/collections-practice/collection-practice/gcr-codebase/interface) All The questions of Interface like Set Interface, Map Interface, List Interface etc.
