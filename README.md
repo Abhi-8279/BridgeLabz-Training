@@ -113,3 +113,12 @@
 **🗓️ 20-Jan-2026 (Tuesday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-Based) ScenarioBased Completed and pushed to gitHub with some common Questions of leetcode. CinemaTime – Movie Schedule Manager, Banking Account Hierarchy,  Employee Role Polymorphism etc.
 
 **🗓️ 21-Jan-2026 (Wednesday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/collections-practice/collection-practice/gcr-codebase/interface) All The questions of Interface like Set Interface, Map Interface, List Interface etc.
+
+**🗓️ 22-Jan-2026 (Thrusday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/collections-practice/collection-practice/gcr-codebase/interface) More Questions on Interface of Queue and List on the main Interface Folders.
+
+**🗓️ 23-Jan-2026 (Friday):**Continues With Common Work.
+
+## 📌 Week 6 Collection, Interface, Streams, Exceptions Handling.  
+**🗓️ 27-Jan-2026 (Tuesday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/collections-practice/collection-practice/gcr-codebase/exceptions) Exceptions Questions on Checked Exception, Unchecked Exception, Custom Exception, Multiple Catch Blocks, try-with-resources, throw vs. throws, Nested try-catch Block. 
+
+
