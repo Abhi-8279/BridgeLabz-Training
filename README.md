@@ -121,4 +121,22 @@
 ## 📌 Week 6 Collection, Interface, Streams, Exceptions Handling.  
 **🗓️ 27-Jan-2026 (Tuesday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/collections-practice/collection-practice/gcr-codebase/exceptions) Exceptions Questions on Checked Exception, Unchecked Exception, Custom Exception, Multiple Catch Blocks, try-with-resources, throw vs. throws, Nested try-catch Block. 
 
+**🗓️ 28-Jan-2026 (Wednesday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/collections-practice/collection-practice/scenario-based) Completed With Scenario BAsed Questions like EduResult.java, FileBackup.java, ParcelTracker.java, RestruTableRegistration.java, SmartCheckout.java.
+
+**🗓️ 29-Jan-2026 (Thrusday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/collections-practice/collection-practice/gcr-codebase/regEx) Started with JUnit Testing and RegularExpressions. Converting the Project to maven and adding dependencies to it to be in Runnable Form.
+
+**🗓️ 30-Jan-2026 (Friday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/collections-practice/collection-practice/gcr-codebase/JUnit/junit) Pushed the JUnit Folder and testing Files to GItHUb and Tested In JUNIT Library Environment.
+
+
+## 📌 Week 8 Interfaces,JAVA8 Features,IO programming.
+ **🗓️ 2-feb-2026 (Monday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csvDataHandling) CSV file Handling Questions Completed and Pushed to GitHub CSVtoObjects.java,CreateCSV.java, ValidateUsers.java, ReasCSVprintCSV.java.
+ 
+ **🗓️ 3-feb-2026 (Tuesday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/JSONHandling) Completed the Json Files Questions Using and Converting the project to Maven NAture And providing them to env to execute.
+ 
+ **🗓️ 4-feb-2026 (Wednesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/aeroVigil)Completed the AeroVigil Scenario based Question in DSA-practice.  Completed with lambda Expression and Interfaces like Marker interface and Functinal interface and pushed the code[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/interface)
+ 
+
+
+
+
 
