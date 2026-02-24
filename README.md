@@ -135,7 +135,13 @@
  
  **🗓️ 4-feb-2026 (Wednesday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-Based/aeroVigil)Completed the AeroVigil Scenario based Question in DSA-practice.  Completed with lambda Expression and Interfaces like Marker interface and Functinal interface and pushed the code[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/interface)
  
+**🗓️ 5-feb-2026 (Thrusday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice/gcr-codebase/multi-threading)  Continues with same work of interfaces.
 
+**🗓️ 6-feb-2026 (Friday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/solution-designing-practice/BridgeLabz-Training-solution-designing-practice) Created the New Branch for designing patterns and done with the Questions of Designing Pattern.
+
+**🗓️ 7-feb-2026 (Saturday):**[Check](https://github.com/Abhi-8279/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice/gcr-codebase/multi-threading) Performed the multithreading Questions with proper folder Structure and with 
+
+## 📌 Week 9 MultiThreading,Designing Pattern Features,JDBC.
 
 
 
